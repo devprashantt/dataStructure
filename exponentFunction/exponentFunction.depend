@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652713954 source:c:\users\prashant\onedrive\desktop\coding\datastructure\exponentfunction\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
