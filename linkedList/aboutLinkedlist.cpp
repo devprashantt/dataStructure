@@ -425,7 +425,7 @@ void reverseListRecursive(struct Node *q, struct Node *p)
 {
     if (p != NULL)
     {
-        reverseListRecursive(q, p->next);
+        reverseListRecursive(p, p->next);
         p->next = q;
     }
     else
